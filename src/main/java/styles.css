@@ -1,0 +1,68 @@
+.label {
+    -fx-font: 15 calibri;
+    -fx-text-fill: white;
+}
+
+.title {
+    -fx-font: 20 calibri;
+    -fx-text-fill: white;
+}
+
+.temperature {
+    -fx-font: 12 calibri;
+}
+
+.weatherElse {
+    -fx-font: 12 calibri;
+}
+
+.date {
+    -fx-font-size: 12 px;
+}
+
+.name{
+    -fx-font: 14 calibri;
+    -fx-text-fill: #fff;
+}
+
+.location{
+    -fx-font: 14 calibri;
+    -fx-text-fill: #fff;
+    -fx-border-color: #fff
+}
+
+.connectError{
+    -fx-border-color: #ff5500;
+    -fx-font: 15 calibri;
+}
+
+.button {
+    -fx-base: #ff5500;
+    -fx-text-fill: white;
+    -fx-font: 14 calibri;
+    -fx-padding: 5px;
+    -fx-border: none;
+}
+
+.button:hover {
+    -fx-base: #de2500;
+}
+
+.border-pane .viewport {
+    -fx-background-color: red;
+}
+
+.border {
+    /*-fx-background-size: cover;*/
+    -fx-background-image: url("image/spots_background_light_blur_68629_1920x1080.jpg");
+    -fx-border-color: #fff;
+}
+
+.exit:hover {
+    -fx-opacity: 1;
+}
+
+.frame{
+    -fx-border-color: #fff;
+    -fx-border-style: hidden hidden dotted hidden;
+}

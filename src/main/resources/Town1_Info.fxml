@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="TOP_CENTER" layoutX="45.0" layoutY="180.0" prefHeight="350.0" prefWidth="287.0" spacing="8.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="WeatherApp.Town1_InfoController">
+        <children>
+            <Pane fx:id="day_1" prefHeight="81.0" prefWidth="287.0" styleClass="frame">
+                <children>
+                    <ImageView fx:id="weatherImageTown1_day1" fitHeight="50.0" fitWidth="50.0" layoutX="3.0" pickOnBounds="true" preserveRatio="true" />
+                    <Label fx:id="cloudsTown1_day1" layoutX="60.0" layoutY="25.0" prefHeight="20.0" prefWidth="181.0" />
+                    <ImageView fx:id="thermImageTown1_day1" fitHeight="23.0" fitWidth="23.0" layoutX="3.0" layoutY="50.0" />
+                    <Label fx:id="tempTown1_day1" layoutX="26.0" layoutY="50.0" prefHeight="28.0" prefWidth="32.0" styleClass="temperature" />
+                    <ImageView fx:id="pressureImageTown1_day1" fitHeight="23.0" fitWidth="23.0" layoutX="58.0" layoutY="50.0" />
+                    <Label fx:id="pressureTown1_day1" layoutX="86.0" layoutY="50.0" prefHeight="28.0" prefWidth="47.0" styleClass="weatherElse" />
+                    <ImageView fx:id="humidityImageTown1_day1" fitHeight="23.0" fitWidth="23.0" layoutX="135.0" layoutY="50.0" />
+                    <Label fx:id="humidityTown1_day1" layoutX="160.0" layoutY="50.0" prefHeight="28.0" prefWidth="34.0" styleClass="weatherElse" />
+                    <ImageView fx:id="windImageTown1_day1" fitHeight="23.0" fitWidth="23.0" layoutX="195.0" layoutY="52.0" />
+                    <Label fx:id="windTown1_day1" layoutX="226.0" layoutY="50.0" prefHeight="28.0" prefWidth="55.0" styleClass="weatherElse" />
+                    <Label fx:id="dateTown1_day1" layoutX="60.0" layoutY="5.0" prefHeight="20.0" prefWidth="80.0" />
+                </children>
+            </Pane>
+            <Pane fx:id="day_2" prefHeight="81.0" prefWidth="287.0" styleClass="frame">
+                <children>
+                    <ImageView fx:id="weatherImageTown1_day2" fitHeight="50.0" fitWidth="50.0" layoutX="3.0" pickOnBounds="true" preserveRatio="true" />
+                    <Label fx:id="cloudsTown1_day2" layoutX="60.0" layoutY="25.0" prefHeight="20.0" prefWidth="181.0" />
+                    <ImageView fx:id="thermImageTown1_day2" fitHeight="23.0" fitWidth="23.0" layoutX="3.0" layoutY="50.0" />
+                    <Label fx:id="tempTown1_day2" layoutX="26.0" layoutY="50.0" prefHeight="28.0" prefWidth="32.0" styleClass="temperature" />
+                    <ImageView fx:id="pressureImageTown1_day2" fitHeight="23.0" fitWidth="23.0" layoutX="58.0" layoutY="50.0" />
+                    <Label fx:id="pressureTown1_day2" layoutX="86.0" layoutY="50.0" prefHeight="28.0" prefWidth="47.0" styleClass="weatherElse" />
+                    <ImageView fx:id="humidityImageTown1_day2" fitHeight="23.0" fitWidth="23.0" layoutX="135.0" layoutY="50.0" />
+                    <Label fx:id="humidityTown1_day2" layoutX="160.0" layoutY="50.0" prefHeight="28.0" prefWidth="34.0" styleClass="weatherElse" />
+                    <ImageView fx:id="windImageTown1_day2" fitHeight="23.0" fitWidth="23.0" layoutX="195.0" layoutY="52.0" />
+                    <Label fx:id="windTown1_day2" layoutX="226.0" layoutY="50.0" prefHeight="28.0" prefWidth="55.0" styleClass="weatherElse" />
+                    <Label fx:id="dateTown1_day2" layoutX="60.0" layoutY="5.0" prefHeight="20.0" prefWidth="80.0" />
+                </children>
+            </Pane>
+            <Pane fx:id="day_3" layoutX="10.0" layoutY="99.0" prefHeight="81.0" prefWidth="287.0" styleClass="frame">
+                <children>
+                    <ImageView fx:id="weatherImageTown1_day3" fitHeight="50.0" fitWidth="50.0" layoutX="3.0" pickOnBounds="true" preserveRatio="true" />
+                    <Label fx:id="cloudsTown1_day3" layoutX="60.0" layoutY="25.0" prefHeight="20.0" prefWidth="181.0" />
+                    <ImageView fx:id="thermImageTown1_day3" fitHeight="23.0" fitWidth="23.0" layoutX="3.0" layoutY="50.0" />
+                    <Label fx:id="tempTown1_day3" layoutX="26.0" layoutY="50.0" prefHeight="28.0" prefWidth="32.0" styleClass="temperature" />
+                    <ImageView fx:id="pressureImageTown1_day3" fitHeight="23.0" fitWidth="23.0" layoutX="58.0" layoutY="50.0" />
+                    <Label fx:id="pressureTown1_day3" layoutX="86.0" layoutY="50.0" prefHeight="28.0" prefWidth="47.0" styleClass="weatherElse" />
+                    <ImageView fx:id="humidityImageTown1_day3" fitHeight="23.0" fitWidth="23.0" layoutX="135.0" layoutY="50.0" />
+                    <Label fx:id="humidityTown1_day3" layoutX="160.0" layoutY="50.0" prefHeight="28.0" prefWidth="34.0" styleClass="weatherElse" />
+                    <ImageView fx:id="windImageTown1_day3" fitHeight="23.0" fitWidth="23.0" layoutX="195.0" layoutY="52.0" />
+                    <Label fx:id="windTown1_day3" layoutX="226.0" layoutY="50.0" prefHeight="28.0" prefWidth="55.0" styleClass="weatherElse" />
+                    <Label fx:id="dateTown1_day3" layoutX="60.0" layoutY="5.0" prefHeight="20.0" prefWidth="80.0" />
+                </children>
+            </Pane>
+            <Pane fx:id="day_4" layoutX="10.0" layoutY="188.0" prefHeight="81.0" prefWidth="287.0">
+                <children>
+                    <ImageView fx:id="weatherImageTown1_day4" fitHeight="50.0" fitWidth="50.0" layoutX="3.0" pickOnBounds="true" preserveRatio="true" />
+                    <Label fx:id="cloudsTown1_day4" layoutX="60.0" layoutY="25.0" prefHeight="20.0" prefWidth="181.0" />
+                    <ImageView fx:id="thermImageTown1_day4" fitHeight="23.0" fitWidth="23.0" layoutX="3.0" layoutY="50.0" />
+                    <Label fx:id="tempTown1_day4" layoutX="26.0" layoutY="50.0" prefHeight="28.0" prefWidth="32.0" styleClass="temperature" />
+                    <ImageView fx:id="pressureImageTown1_day4" fitHeight="23.0" fitWidth="23.0" layoutX="58.0" layoutY="50.0" />
+                    <Label fx:id="pressureTown1_day4" layoutX="86.0" layoutY="50.0" prefHeight="28.0" prefWidth="47.0" styleClass="weatherElse" />
+                    <ImageView fx:id="humidityImageTown1_day4" fitHeight="23.0" fitWidth="23.0" layoutX="135.0" layoutY="50.0" />
+                    <Label fx:id="humidityTown1_day4" layoutX="160.0" layoutY="50.0" prefHeight="28.0" prefWidth="34.0" styleClass="weatherElse" />
+                    <ImageView fx:id="windImageTown1_day4" fitHeight="23.0" fitWidth="23.0" layoutX="195.0" layoutY="52.0" />
+                    <Label fx:id="windTown1_day4" layoutX="226.0" layoutY="50.0" prefHeight="28.0" prefWidth="55.0" styleClass="weatherElse" />
+                    <Label fx:id="dateTown1_day4" layoutX="60.0" layoutY="5.0" prefHeight="20.0" prefWidth="80.0" />
+                </children>
+            </Pane>
+        </children>
+    </VBox>

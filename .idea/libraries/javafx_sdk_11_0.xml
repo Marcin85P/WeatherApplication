@@ -1,0 +1,94 @@
+<component name="libraryTable">
+  <library name="javafx-sdk-11.0">
+    <CLASSES>
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.base" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.compiler" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.datatransfer" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.desktop" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.instrument" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.logging" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.management" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.management.rmi" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.naming" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.net.http" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.prefs" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.rmi" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.scripting" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.security.jgss" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.security.sasl" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.smartcardio" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.sql" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.sql.rowset" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.transaction.xa" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.xml" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/java.xml.crypto" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.accessibility" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.aot/jdk.tools.jaotc.binformat/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.aot/jdk.tools.jaotc.test/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.aot/jdk.tools.jaotc/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.attach" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.charsets" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.compiler" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.crypto.cryptoki" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.crypto.ec" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.crypto.mscapi" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.dynalink" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.editpad" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.hotspot.agent" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.httpserver" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.ed" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.jvmstat" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.le" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.opt" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.aarch64/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.amd64/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.code/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.common/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.hotspot.aarch64/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.hotspot.amd64/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.hotspot.sparc/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.hotspot/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.meta/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.runtime/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.services/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.ci/jdk.vm.ci.sparc/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.compiler" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.internal.vm.compiler.management/org.graalvm.compiler.hotspot.management/src" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.jartool" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.javadoc" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.jcmd" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.jconsole" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.jdeps" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.jdi" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.jfr" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.jlink" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.jshell" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.jsobject" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.jstatd" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.localedata" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.management" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.management.agent" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.management.jfr" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.naming.dns" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.naming.rmi" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.net" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.rmic" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.scripting.nashorn" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.scripting.nashorn.shell" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.sctp" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.security.auth" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.security.jgss" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.unsupported" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.unsupported.desktop" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.xml.dom" />
+      <root url="file://C:/Program Files/Java/jdk-13.0.2/lib/jdk.zipfs" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Java/jdk-13.0.2/lib" recursive="false" />
+    <jarDirectory url="file://C:/Program Files/Java/jdk-13.0.2/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
